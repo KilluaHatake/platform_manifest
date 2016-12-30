@@ -581,8 +581,8 @@
 
   <!-- Slim Additions -->
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" remote="github" revision="ng7.1" />
-<project name="ReaperRoms/device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="7.1" />
+<!--<<project name="ReaperRoms/device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="7.1" />
   <project name="Seraph08/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="cm-14.1"/>
-           </manifest>
+           --></manifest>
