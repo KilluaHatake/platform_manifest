@@ -98,7 +98,7 @@
   <project path="system/sepolicy" name="ReaperRoms/system_sepolicy" remote="github" revision="7.1" />
   <project path="system/vold" name="ReaperRoms/system_vold" remote="github" revision="7.1" />    
   <project path="vendor/reaper" name="ReaperRoms/vendor_reaper" remote="github" revision="7.1" />
-  <project path="platform_manifest" name="ReaperRoms/platform_manifest" remote="github" revision="7.1" />
+  <project path="platform_manifest" name="KilluaHatake/platform_manifest" remote="github" revision="7.1" />
 
   <!-- Slim Repos -->
   <project path="libcore" name="SlimRoms/android_libcore" remote="github" revision="ng7.1" />
